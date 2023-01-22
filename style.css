@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    min-height: 100vh;
+    align-items: center;
+    font-family: monospace;
+    font-size: 48px;
+    background: rgb(132, 144, 184);
+    color: blue;
+}
+
+.red {
+    color: red;
+}
+
+.redbackground {
+    background-color: rgb(184, 132, 136);
+}
